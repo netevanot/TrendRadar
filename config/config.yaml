@@ -113,9 +113,8 @@ platforms:
     name: "靠谱新闻"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
-    - id: "ifeng"
+  - id: "ifeng"
     name: "凤凰网"
-    
   - id: "cls-hot"
     name: "财联社热门"
   - id: "xueqiu"
@@ -126,7 +125,6 @@ platforms:
     name: "金十数据"
   - id: "fastbull"
     name: "快讯通"
-
   - id: "tieba"
     name: "贴吧"
   - id: "weibo"
@@ -135,5 +133,3 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  
-    
